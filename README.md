@@ -1,1 +1,1 @@
-Music Player UI created to practice flutter skills.
+Music Player UI created to practice flutter.
